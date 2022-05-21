@@ -15,6 +15,9 @@ public:
     explicit DodajPracownika(QWidget *parent = nullptr);
     ~DodajPracownika();
 
+private slots:
+    void on_comboBox_activated(int index);
+
 private:
     Ui::DodajPracownika *ui;
 };

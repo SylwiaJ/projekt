@@ -12,3 +12,9 @@ DodajPracownika::~DodajPracownika()
 {
     delete ui;
 }
+
+void DodajPracownika::on_comboBox_activated(int index)
+{
+//Rodzaje stanowiska
+}
+
