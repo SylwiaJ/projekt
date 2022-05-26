@@ -1,0 +1,149 @@
+﻿  KierownikLogistyki.cpp
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,11): error C2143: błąd składniowy: brakuje „;” przed „*”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,11): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,21): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,11): error C2143: błąd składniowy: brakuje „;” przed „*”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,11): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,20): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(13,23): error C2061: błąd składniowy: identyfikator „Pracownik”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\KierownikLogistyki.cpp(5,54): error C3861: "pobierzLicznik": identyfikatora nie odnaleziono
+  KierownikProdukcji.cpp
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,11): error C2143: błąd składniowy: brakuje „;” przed „*”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,11): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,21): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,11): error C2143: błąd składniowy: brakuje „;” przed „*”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,11): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,20): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(13,23): error C2061: błąd składniowy: identyfikator „Pracownik”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\KierownikProdukcji.cpp(5,54): error C3861: "pobierzLicznik": identyfikatora nie odnaleziono
+  ListaPracownikow.cpp
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,11): error C2143: błąd składniowy: brakuje „;” przed „*”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,11): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,21): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,11): error C2143: błąd składniowy: brakuje „;” przed „*”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,11): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,20): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(13,23): error C2061: błąd składniowy: identyfikator „Pracownik”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Plik.h(12,11): error C2059: błąd składniowy: „[”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Plik.h(12,88): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Plik.h(13,73): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Plik.h(13,73): warning C4183: odczytSprzetuZPliku”: Brak typu zwracanego; założono, że jest funkcją składową zwracającą „int”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.cpp(10,8): error C2039: „pierwszy”: nie jest składową elementu „ListaPracownikow”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(9): message : zobacz deklarację „ListaPracownikow”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.cpp(11,8): error C2039: „ostatni”: nie jest składową elementu „ListaPracownikow”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(9): message : zobacz deklarację „ListaPracownikow”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.cpp(14,57): error C2511: „void ListaPracownikow::dodajPracownika(Pracownik *)”: Przeciążona funkcja składowa nie została znaleziona w „ListaPracownikow”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(9): message : zobacz deklarację „ListaPracownikow”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.cpp(15,6): error C2065: "pierwszy": niezadeklarowany identyfikator
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.cpp(18,3): error C2065: "pierwszy": niezadeklarowany identyfikator
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.cpp(22,3): error C2671: „ListaPracownikow::dodajPracownika”: Statyczne funkcje składowe nie mają wskaźników „this”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.cpp(25,2): error C2671: „ListaPracownikow::dodajPracownika”: Statyczne funkcje składowe nie mają wskaźników „this”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.cpp(29,26): error C2039: „pierwszy”: nie jest składową elementu „ListaPracownikow”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(9): message : zobacz deklarację „ListaPracownikow”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.cpp(42,27): error C2039: „pierwszy”: nie jest składową elementu „ListaPracownikow”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(9): message : zobacz deklarację „ListaPracownikow”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.cpp(66,27): error C2039: „pierwszy”: nie jest składową elementu „ListaPracownikow”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(9): message : zobacz deklarację „ListaPracownikow”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.cpp(67,3): error C2065: "pierwszy": niezadeklarowany identyfikator
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.cpp(77,21): error C2065: "pierwszy": niezadeklarowany identyfikator
+  Main.cpp
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,11): error C2143: błąd składniowy: brakuje „;” przed „*”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,11): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,21): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,11): error C2143: błąd składniowy: brakuje „;” przed „*”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,11): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,20): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(13,23): error C2061: błąd składniowy: identyfikator „Pracownik”
+  Plik.cpp
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,11): error C2143: błąd składniowy: brakuje „;” przed „*”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,11): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,21): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,11): error C2143: błąd składniowy: brakuje „;” przed „*”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,11): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,20): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(13,23): error C2061: błąd składniowy: identyfikator „Pracownik”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Plik.h(12,11): error C2059: błąd składniowy: „[”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Plik.h(12,88): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Plik.h(13,73): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Plik.h(13,73): warning C4183: odczytSprzetuZPliku”: Brak typu zwracanego; założono, że jest funkcją składową zwracającą „int”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Plik.cpp(24,18): error C2039: „odczytPracownikowZPliku”: nie jest składową elementu „Plik”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Plik.h(8): message : zobacz deklarację „Plik”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Plik.cpp(29,12): error C2512: "Pracownik": niedostępny odpowiedni konstruktor domyślny
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Pracownik.h(6,7): message : zobacz deklarację „Pracownik”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Plik.cpp(48,55): error C2679: dwuargumentowy "=": nie znaleziono żadnego operatora, który przyjmuje prawostronny operand typu "Pracownik *" (lub nie istnieje akceptowalna konwersja)
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Pracownik.h(31,1): message : może to być „Pracownik &Pracownik::operator =(Pracownik &&)”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Pracownik.h(31,1): message : lub       "Pracownik &Pracownik::operator =(const Pracownik &)"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Plik.cpp(48,55): message : podczas próby dopasowania listy argumentów "(Pracownik, Pracownik *)"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Plik.cpp(50,26): error C2440: "return": nie można konwertować z "Pracownik [50]" na "Pracownik"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Plik.cpp(50,26): message : Żaden konstruktor nie mógł przyjąć typu źródłowego lub rozpoznanie przeciążenia konstruktora było niejednoznaczne
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Plik.cpp(54,73): error C2556: "void Plik::odczytSprzetuZPliku(int,std::string,std::string)": przeciążona funkcja różni się tylko typem zwracanym od "int Plik::odczytSprzetuZPliku(int,std::string,std::string)"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Plik.h(13): message : zobacz deklarację „Plik::odczytSprzetuZPliku”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Plik.cpp(54,12): error C2371: "Plik::odczytSprzetuZPliku": zmiana definicji; różne typy podstawowe
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Plik.h(13): message : zobacz deklarację „Plik::odczytSprzetuZPliku”
+  Pracownik.cpp
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,11): error C2143: błąd składniowy: brakuje „;” przed „*”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,11): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,21): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,11): error C2143: błąd składniowy: brakuje „;” przed „*”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,11): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,20): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(13,23): error C2061: błąd składniowy: identyfikator „Pracownik”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Plik.h(12,11): error C2059: błąd składniowy: „[”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Plik.h(12,88): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Plik.h(13,73): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Plik.h(13,73): warning C4183: odczytSprzetuZPliku”: Brak typu zwracanego; założono, że jest funkcją składową zwracającą „int”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Pracownik.cpp(10,17): error C2039: „dodajPracownika”: nie jest składową elementu „Pracownik”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Pracownik.h(6): message : zobacz deklarację „Pracownik”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Pracownik.cpp(11,35): error C2660: "Plik::zapiszPracownikaDoPliku": funkcja nie przyjmuje 0 argumentów
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Plik.h(10,7): message : zobacz deklarację „Plik::zapiszPracownikaDoPliku”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Pracownik.cpp(14,1): error C2143: błąd składniowy: brakuje „;” przed „}”
+  PracownikBiura.cpp
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,11): error C2143: błąd składniowy: brakuje „;” przed „*”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,11): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,21): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,11): error C2143: błąd składniowy: brakuje „;” przed „*”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,11): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,20): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(13,23): error C2061: błąd składniowy: identyfikator „Pracownik”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\PracownikBiura.cpp(3,63): error C2664: „Pracownik::Pracownik(int,std::string)”: nie można dokonać konwersji argumentu 1 z „std::string” do „int”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\PracownikBiura.cpp(3,57): message : Nie jest dostępny żaden operator konwersji zdefiniowany przez użytkownika, który mógłby wykonać tę konwersję lub operator nie może zostać wywołany
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Pracownik.h(13,2): message : zobacz deklarację „Pracownik::Pracownik”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\PracownikBiura.cpp(5,50): error C3861: "pobierzLicznik": identyfikatora nie odnaleziono
+  PracownikFizyczny.cpp
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,11): error C2143: błąd składniowy: brakuje „;” przed „*”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,11): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,21): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,11): error C2143: błąd składniowy: brakuje „;” przed „*”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,11): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,20): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(13,23): error C2061: błąd składniowy: identyfikator „Pracownik”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\PracownikFizyczny.cpp(3,66): error C2664: „Pracownik::Pracownik(int,std::string)”: nie można dokonać konwersji argumentu 1 z „std::string” do „int”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\PracownikFizyczny.cpp(3,61): message : Nie jest dostępny żaden operator konwersji zdefiniowany przez użytkownika, który mógłby wykonać tę konwersję lub operator nie może zostać wywołany
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\Pracownik.h(13,2): message : zobacz deklarację „Pracownik::Pracownik”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\PracownikFizyczny.cpp(5,41): error C3861: "pobierzLicznik": identyfikatora nie odnaleziono
+  PracownikLogistyki.cpp
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,11): error C2143: błąd składniowy: brakuje „;” przed „*”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,11): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,21): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,11): error C2143: błąd składniowy: brakuje „;” przed „*”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,11): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,20): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(13,23): error C2061: błąd składniowy: identyfikator „Pracownik”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\PracownikLogistyki.cpp(5,42): error C3861: "pobierzLicznik": identyfikatora nie odnaleziono
+  PracownikProdukcji.cpp
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,11): error C2143: błąd składniowy: brakuje „;” przed „*”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,11): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,21): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,11): error C2143: błąd składniowy: brakuje „;” przed „*”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,11): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,20): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(13,23): error C2061: błąd składniowy: identyfikator „Pracownik”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\PracownikProdukcji.cpp(5,55): error C3861: "pobierzLicznik": identyfikatora nie odnaleziono
+  ProjektPP.cpp
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,11): error C2143: błąd składniowy: brakuje „;” przed „*”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,11): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(11,21): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,11): error C2143: błąd składniowy: brakuje „;” przed „*”
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,11): error C4430: brak specyfikatora typu - założono, że int. Uwaga: C++ nie obsługuje domyślnie typu int
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(12,20): error C2238: nieoczekiwany(e) token(y) poprzedzający(e) ";"
+E:\Program Files\Visual Studio\Visual Projekty\ProjektPP\ListaPracownikow.h(13,23): error C2061: błąd składniowy: identyfikator „Pracownik”

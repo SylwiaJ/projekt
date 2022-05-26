@@ -1,0 +1,9 @@
+1; imie;
+KierownikPro
+
+imie
+PracownikBiura
+
+pobrac ilosc pracownikow, 
+sprawdzic ilu jest i dodac kolejnego w id ++
+
