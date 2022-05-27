@@ -13,81 +13,29 @@
   <property name="windowTitle">
    <string>Dialog</string>
   </property>
-  <widget class="QLabel" name="label">
+  <widget class="QWidget" name="verticalLayoutWidget">
    <property name="geometry">
     <rect>
-     <x>120</x>
-     <y>30</y>
-     <width>201</width>
-     <height>31</height>
+     <x>50</x>
+     <y>89</y>
+     <width>301</width>
+     <height>121</height>
     </rect>
    </property>
-   <property name="font">
-    <font>
-     <pointsize>16</pointsize>
-     <bold>true</bold>
-    </font>
-   </property>
-   <property name="text">
-    <string>Wypozyczalnia</string>
-   </property>
-  </widget>
-  <widget class="QWidget" name="formLayoutWidget">
-   <property name="geometry">
-    <rect>
-     <x>39</x>
-     <y>119</y>
-     <width>321</width>
-     <height>71</height>
-    </rect>
-   </property>
-   <layout class="QFormLayout" name="formLayout">
-    <item row="1" column="0">
-     <widget class="QLabel" name="label_2">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QPushButton" name="pushButton">
       <property name="text">
-       <string>Rodzaj</string>
+       <string>Wydawanie</string>
       </property>
      </widget>
     </item>
-    <item row="1" column="1">
-     <widget class="QComboBox" name="comboBox">
-      <item>
-       <property name="text">
-        <string>Wypozyczany</string>
-       </property>
-      </item>
-      <item>
-       <property name="text">
-        <string>Wydawany</string>
-       </property>
-      </item>
-      <item>
-       <property name="text">
-        <string>Komputer</string>
-       </property>
-      </item>
-     </widget>
-    </item>
-    <item row="2" column="1">
-     <layout class="QGridLayout" name="gridLayout">
-      <item row="0" column="0">
-       <widget class="QPushButton" name="pushButton">
-        <property name="text">
-         <string>Wybierz</string>
-        </property>
-       </widget>
-      </item>
-     </layout>
-    </item>
-    <item row="0" column="0">
-     <widget class="QLabel" name="label_3">
+    <item>
+     <widget class="QPushButton" name="pushButton_2">
       <property name="text">
-       <string>ID:</string>
+       <string>Wypozyczanie</string>
       </property>
      </widget>
-    </item>
-    <item row="0" column="1">
-     <widget class="QTextEdit" name="textEdit"/>
     </item>
    </layout>
   </widget>

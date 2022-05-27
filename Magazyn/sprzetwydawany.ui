@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>Usunpracownika</class>
- <widget class="QDialog" name="Usunpracownika">
+ <class>SprzetWydawany</class>
+ <widget class="QDialog" name="SprzetWydawany">
   <property name="geometry">
    <rect>
     <x>0</x>
@@ -17,23 +17,33 @@
    <property name="geometry">
     <rect>
      <x>30</x>
-     <y>120</y>
+     <y>110</y>
      <width>341</width>
-     <height>61</height>
+     <height>91</height>
     </rect>
    </property>
    <layout class="QFormLayout" name="formLayout">
     <item row="0" column="0">
      <widget class="QLabel" name="label">
       <property name="text">
-       <string>ID:</string>
+       <string>ID Pracownika:</string>
       </property>
      </widget>
     </item>
     <item row="0" column="1">
      <widget class="QLineEdit" name="lineEdit"/>
     </item>
+    <item row="1" column="0">
+     <widget class="QLabel" name="label_2">
+      <property name="text">
+       <string>ID: Przedmiotu:</string>
+      </property>
+     </widget>
+    </item>
     <item row="1" column="1">
+     <widget class="QLineEdit" name="lineEdit_2"/>
+    </item>
+    <item row="2" column="1">
      <layout class="QHBoxLayout" name="horizontalLayout">
       <item>
        <layout class="QHBoxLayout" name="horizontalLayout_2">
@@ -55,32 +65,13 @@
       <item>
        <widget class="QPushButton" name="pushButton">
         <property name="text">
-         <string>Usun</string>
+         <string>Wydaj</string>
         </property>
        </widget>
       </item>
      </layout>
     </item>
    </layout>
-  </widget>
-  <widget class="QLabel" name="label_2">
-   <property name="geometry">
-    <rect>
-     <x>110</x>
-     <y>30</y>
-     <width>211</width>
-     <height>43</height>
-    </rect>
-   </property>
-   <property name="font">
-    <font>
-     <pointsize>16</pointsize>
-     <bold>true</bold>
-    </font>
-   </property>
-   <property name="text">
-    <string>Usun Pracownika</string>
-   </property>
   </widget>
  </widget>
  <resources/>

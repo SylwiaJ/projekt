@@ -15,6 +15,11 @@ public:
     explicit Wypozyczalnia(QWidget *parent = nullptr);
     ~Wypozyczalnia();
 
+private slots:
+    void on_pushButton_clicked();
+
+    void on_pushButton_2_clicked();
+
 private:
     Ui::Wypozyczalnia *ui;
 };

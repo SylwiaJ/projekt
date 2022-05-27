@@ -10,27 +10,39 @@ CONFIG += c++17
 
 SOURCES += \
     dodajpracownika.cpp \
+    dodajprzedmiot.cpp \
     main.cpp \
     magazyn.cpp \
     pracownik.cpp \
     sprzet.cpp \
+    sprzetwydawany.cpp \
+    sprzetwypozyczany.cpp \
     usunpracownika.cpp \
+    usunprzedmiot.cpp \
     wypozyczalnia.cpp
 
 HEADERS += \
     dodajpracownika.h \
+    dodajprzedmiot.h \
     magazyn.h \
     pracownik.h \
     sprzet.h \
+    sprzetwydawany.h \
+    sprzetwypozyczany.h \
     usunpracownika.h \
+    usunprzedmiot.h \
     wypozyczalnia.h
 
 FORMS += \
     dodajpracownika.ui \
+    dodajprzedmiot.ui \
     magazyn.ui \
     pracownik.ui \
     sprzet.ui \
+    sprzetwydawany.ui \
+    sprzetwypozyczany.ui \
     usunpracownika.ui \
+    usunprzedmiot.ui \
     wypozyczalnia.ui
 
 # Default rules for deployment.

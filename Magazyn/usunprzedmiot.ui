@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>DodajPracownika</class>
- <widget class="QDialog" name="DodajPracownika">
+ <class>Usunprzedmiot</class>
+ <widget class="QDialog" name="Usunprzedmiot">
   <property name="geometry">
    <rect>
     <x>0</x>
@@ -16,24 +16,17 @@
   <widget class="QWidget" name="formLayoutWidget">
    <property name="geometry">
     <rect>
-     <x>39</x>
-     <y>109</y>
-     <width>321</width>
-     <height>112</height>
+     <x>50</x>
+     <y>170</y>
+     <width>301</width>
+     <height>56</height>
     </rect>
    </property>
    <layout class="QFormLayout" name="formLayout">
     <item row="0" column="0">
      <widget class="QLabel" name="label">
       <property name="text">
-       <string>Imie</string>
-      </property>
-     </widget>
-    </item>
-    <item row="1" column="0">
-     <widget class="QLabel" name="label_2">
-      <property name="text">
-       <string>Nazwisko</string>
+       <string>ID:</string>
       </property>
      </widget>
     </item>
@@ -41,16 +34,6 @@
      <widget class="QLineEdit" name="lineEdit"/>
     </item>
     <item row="1" column="1">
-     <widget class="QLineEdit" name="lineEdit_2"/>
-    </item>
-    <item row="2" column="0">
-     <widget class="QLabel" name="label_3">
-      <property name="text">
-       <string>Stanowisko</string>
-      </property>
-     </widget>
-    </item>
-    <item row="3" column="1">
      <layout class="QHBoxLayout" name="horizontalLayout">
       <item>
        <layout class="QHBoxLayout" name="horizontalLayout_2">
@@ -72,55 +55,21 @@
       <item>
        <widget class="QPushButton" name="pushButton">
         <property name="text">
-         <string>Dodaj</string>
+         <string>Usun</string>
         </property>
        </widget>
       </item>
      </layout>
     </item>
-    <item row="2" column="1">
-     <widget class="QComboBox" name="comboBox">
-      <item>
-       <property name="text">
-        <string>Pracownik Fizyczny</string>
-       </property>
-      </item>
-      <item>
-       <property name="text">
-        <string>Pracownik Produkcji</string>
-       </property>
-      </item>
-      <item>
-       <property name="text">
-        <string>Pracownik Logistyki</string>
-       </property>
-      </item>
-      <item>
-       <property name="text">
-        <string>Pracownik Biura</string>
-       </property>
-      </item>
-      <item>
-       <property name="text">
-        <string>Kierownik Produkcji</string>
-       </property>
-      </item>
-      <item>
-       <property name="text">
-        <string>Kierownik Logistyki</string>
-       </property>
-      </item>
-     </widget>
-    </item>
    </layout>
   </widget>
-  <widget class="QLabel" name="label_4">
+  <widget class="QLabel" name="label_2">
    <property name="geometry">
     <rect>
-     <x>110</x>
-     <y>20</y>
-     <width>191</width>
-     <height>41</height>
+     <x>50</x>
+     <y>30</y>
+     <width>301</width>
+     <height>61</height>
     </rect>
    </property>
    <property name="font">
@@ -130,7 +79,7 @@
     </font>
    </property>
    <property name="text">
-    <string>Dodaj Pracownika</string>
+    <string>Usun przedmiot z magazynu</string>
    </property>
   </widget>
  </widget>
