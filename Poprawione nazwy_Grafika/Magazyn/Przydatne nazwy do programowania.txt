@@ -1,0 +1,24 @@
+Nazwy Radio Buttom w Dodaj Pracownika
+Pracownik Fizyczny - "PracFiz"
+Pracownik Produkcji - "PracPro"
+Pracownik Logistyki - "PracLog"
+Pracownik Biura - "PracBiu"
+Kierownik Produkcji - "KierPro"
+Kierownik Logistyki - "KierLog"
+
+Miejsce do pisania Imienia nazywa sie - "Imie"
+Miejsce do pisania Nazwiska nazywa sie - "Nazwisko"
+
+Nazwa button w dodaj pracownik - "DodajPracownika"
+
+Nazwy Radio Buttom w Dodaj Przedmiot
+Pracownik Fizyczny - "PracFizy"
+Pracownik Produkcji - "PracProd"
+Pracownik Logistyki - "PracLogi"
+Pracownik Biura - "PracBiur"
+Kierownik Produkcji - "KierProd"
+Kierownik Logistyki - "KierLogi"
+
+Miejsce do pisania nazwy przedmiotu nazywa sie - "NazwaPrzedmiotu"
+
+Nazwa button w dodaj przedmiot - "Przycisk"
